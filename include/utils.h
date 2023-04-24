@@ -7,6 +7,7 @@
 uint16_t checksum16(uint16_t *data, size_t len);
 
 #define constswap16(x) ((((x)&0xFF) << 8) | (((x) >> 8) & 0xFF)) //为16位数据交换大小端
+
 //为16位数据交换大小端
 static inline uint16_t swap16(uint16_t x) {
     return ((x & 0xFF) << 8) | ((x >> 8) & 0xFF);

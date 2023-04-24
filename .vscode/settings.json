@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ethernet.h": "c",
+        "arp.h": "c",
+        "net.h": "c"
+    }
+}
