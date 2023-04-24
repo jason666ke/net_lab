@@ -7,6 +7,8 @@
 #define ARP_REQUEST 0x1  // ARP请求包
 #define ARP_REPLY 0x2    // ARP响应包
 
+#define ARP_PADDING 18   // ARP协议需要填充18个字节
+
 #pragma pack(1)
 typedef struct arp_pkt
 {
