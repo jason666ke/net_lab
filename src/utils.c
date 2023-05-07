@@ -77,5 +77,24 @@ uint8_t ip_prefix_match(uint8_t *ipa, uint8_t *ipb)
  */
 uint16_t checksum16(uint16_t *data, size_t len)
 {
-    // TO-DO
+    uint32_t result = 0;
+
+    for (int i = 0; i < (len >> 1); i++) {
+        result += data[i];
+    }
+
+    // 如果最后还剩下8bit，也需要加上
+    if (len & 1) {
+        result += *((uint8_t *) (data) + (len - 1));
+    }
+
+    // 循环直至高16位为0
+    while (result & 0xffff0000)
+    {
+        // 高16位 + 低16位
+        result = (result >> 16) + (result & 0xffff);
+    }
+
+    // 取反得到校验和
+    return (uint16_t) (~result);
 }

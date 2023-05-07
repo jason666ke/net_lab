@@ -2,6 +2,8 @@
     "files.associations": {
         "ethernet.h": "c",
         "arp.h": "c",
-        "net.h": "c"
+        "net.h": "c",
+        "string_view": "c",
+        "stdint.h": "c"
     }
 }
