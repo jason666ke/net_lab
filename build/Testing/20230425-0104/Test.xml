@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230425-0104-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.23.0-rc2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="KeBao"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22624)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="5"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="28026"
+	TotalPhysicalMemory="16250"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2304"
+	>
+	<Testing>
+		<StartDateTime>Apr 25 09:04 ?D1[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xB2][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0][NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC1]?[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0]??</StartDateTime>
+		<StartTestTime>1682384665</StartTestTime>
+		<TestList>
+			<Test>./arp_test</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>arp_test</Name>
+			<Path>.</Path>
+			<FullName>./arp_test</FullName>
+			<FullCommandLine>E:\net-lab\build\arp_test.exe "E:/net-lab/testing/data/arp_test"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0594521</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>E:\net-lab\build\arp_test.exe "E:/net-lab/testing/data/arp_test"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyFlE9LxDAQxa+lX8HLHBWkNN3uP0VBBM+ie/OUTabbsE1Tmqyr395JNwsq27TwYJjfZNo+Xnv1kd/PSr1B62CLO9Vm6dWvlnW8d+fOC6JU7Q5U2x0c5CxJBhWkGakkzUkL0pK0Iq2ThOUkmmM0x2iO0Rybh5XpO9ddg2ElbxroeiPQWpS3IGoUe39Dc3CEz4/xfG43ZgeVavBaGN3xHuGoXA0StbkJb1HoN3NoJbA7aA1IVVXYY0v7/+IijmdxXMbxPI4XcbyM41Ucr+OY5RN8wjc2YRybcI5NWMcuecc8f6DrEZ4oLz4EvZ+24CPgagTLNRVmqH0ahjDo/+npBO9CsiZT9MrFHt14jAIftSPwUTsCH7Uj8NEoBT6apcAvhCnLsnRDPvX+azfV4Jkb6pMzR26JafOJEqyiM6Ac4JegX4E9Ddd0tDaN9KdZXpSw/aYFWfoDFDZbzQ==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Apr 25 09:04 ?D1[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xB2][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0][NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC1]?[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0]??</EndDateTime>
+		<EndTestTime>1682384665</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

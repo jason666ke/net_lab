@@ -1,0 +1,22 @@
+Start testing: May 06 22:59 ?D1¨²¡À¨º¡Á?¨º¡À??
+----------------------------------------------------------
+5/6 Testing: ip_frag_test
+5/6 Test: ip_frag_test
+Command: "E:/net-lab/build/ip_frag_test.exe" "E:/net-lab/testing/data/ip_frag_test"
+Directory: E:/net-lab/build
+"ip_frag_test" start time: May 06 22:59 ?D1¨²¡À¨º¡Á?¨º¡À??
+Output:
+----------------------------------------------------------
+[0;34mFeeding input.
+[0;34mComparing logs.
+[1;32mLog file check passed
+[0m
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"ip_frag_test" end time: May 06 22:59 ?D1¨²¡À¨º¡Á?¨º¡À??
+"ip_frag_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 06 22:59 ?D1¨²¡À¨º¡Á?¨º¡À??

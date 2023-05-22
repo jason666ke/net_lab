@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230507-0111-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.23.0-rc2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="KeBao"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22624)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="5"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="29050"
+	TotalPhysicalMemory="16250"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2304"
+	>
+	<Testing>
+		<StartDateTime>May 07 11:33 ?D1[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xB2][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0][NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC1]?[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0]??</StartDateTime>
+		<StartTestTime>1683430409</StartTestTime>
+		<TestList>
+			<Test>./icmp_test</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>icmp_test</Name>
+			<Path>.</Path>
+			<FullName>./icmp_test</FullName>
+			<FullCommandLine>E:\net-lab\build\icmp_test.exe "E:/net-lab/testing/data/icmp_test"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0536256</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>E:\net-lab\build\icmp_test.exe "E:/net-lab/testing/data/icmp_test"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyFlM1KxDAUhbelrzCbu1SQ0nQ6v6IggmvR2bnKJLfTME1Tmoyjb+9NJ7NQbFo4EPKd3IbDIbOP/H5e6h1aB3s8qDZLZ5etF0Sp2gOotjs5yFmSDCpIc1JJWpCWpBVpTdokCctJ5GPkY+Rj5GOLMDJ957prMIzkTQNdbwRai/IORI3i6H9oTo7w9RrP1+3GHKBSDd4IozveI5yVq0GiNrfhzoV+M6dWAttCa0CqqsIeW5r/GxdxPI/jMo4XcbyM41Ucr+N4E8csn+ATubGJ4NhEcmwiOvZfdszzB/oe4Yn64kvQe7cFXwFXI1iuaWGGtW/DUAb9tz2d4F1o1mSLXrk4ohuvUeCjcQQ+Gkfgo3EEPlqlwEe7FPhomQIf2pRlWbqj5Hr/AJhqSNEN60tWZ26JafOJEqyiKaAc4Jegx8FezDUdrU0j/WmWFyXsv2lAlv4AnMBbnw==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>May 07 11:33 ?D1[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xB2][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0][NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC1]?[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0]??</EndDateTime>
+		<EndTestTime>1683430409</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

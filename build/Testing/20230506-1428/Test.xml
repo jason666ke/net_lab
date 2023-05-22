@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230506-1428-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.23.0-rc2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="KeBao"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22624)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="5"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="28026"
+	TotalPhysicalMemory="16250"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2304"
+	>
+	<Testing>
+		<StartDateTime>May 06 22:59 ?D1[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xB2][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0][NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC1]?[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0]??</StartDateTime>
+		<StartTestTime>1683385193</StartTestTime>
+		<TestList>
+			<Test>./ip_frag_test</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>ip_frag_test</Name>
+			<Path>.</Path>
+			<FullName>./ip_frag_test</FullName>
+			<FullCommandLine>E:\net-lab\build\ip_frag_test.exe "E:/net-lab/testing/data/ip_frag_test"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.104278</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>E:\net-lab\build\ip_frag_test.exe "E:/net-lab/testing/data/ip_frag_test"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>[NON-XML-CHAR-0x1B][0;34mFeeding input.
+[NON-XML-CHAR-0x1B][0;34mComparing logs.
+[NON-XML-CHAR-0x1B][1;32mLog file check passed
+[NON-XML-CHAR-0x1B][0m
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>May 06 22:59 ?D1[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xB2][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0][NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC1]?[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0]??</EndDateTime>
+		<EndTestTime>1683385193</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
